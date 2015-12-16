@@ -22,7 +22,7 @@
 			<key>label</key>
 			<string>Enabled</string>
 
-			<!-- This is what does the magic for this switch! Must match key in Tweak.xm line:58 -->
+			<!-- This is what does the magic for this switch! Must match key in Tweak.xm line:62 -->
 			<key>PostNotification</key>
 			<string>com.tapsharp.sampletweaksettings/ReloadPrefs</string>
 			<!-- Anytime this switch is toggled, it sends a notification through iOS that is then picked by your Tweak! -->
